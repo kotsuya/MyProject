@@ -13,6 +13,7 @@ class Book{
     var genre = ""
     var author = ""
     
+    // test comment add
     func bookPrint(){
         print("Name : \(name)")
         print("Genre : \(genre)")
